@@ -78,7 +78,7 @@ export default function CreateEvent() {
         let wait = await txn.wait();
         console.log("Minted -- ", txn.hash);
 
-        setEventId(wait.events[0].argos[0]);
+        setEventId(wait.events[0].args[0]);
         setSuccess(true);
         setLoading(false);
         setMessage("Your event has been created successfully.");
