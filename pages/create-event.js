@@ -70,7 +70,7 @@ export default function CreateEvent() {
           deposit,
           maxCapacity,
           eventDataCID,
-          {gasLimit: 900000 }
+          { gasLimit: 900000 }
         );
 
         setLoading(true);
