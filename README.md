@@ -1,3 +1,24 @@
+Description:
+Frontend project for RSVP event dapp.
+
+Learned from project:
+- Rainbowkit (React Library)
+- Infura
+- Wagmi client
+- Web3.storage
+- IPFS
+- Ethers.js (Javascript library to interact with the Ethereum blockchain)
+- The Graph
+- Apollo GraphQL client
+- Next.js
+
+
+
+
+
+-Original Note from Readme file-
+
+
 # Web3RSVP-frontend
 
 ### Fork and clone the repo from Github to work with it locally
